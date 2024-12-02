@@ -1,0 +1,25 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(pexels-alexander-dmitriev-1403795-2853784.jpg);
+    background-position: cover;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    width: 150px;
+    background-color: goldenrod;
+    color: #016f32;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
